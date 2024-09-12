@@ -1,4 +1,4 @@
-int leeftijd = 20;
+int leeftijd = 15;
 
 if(leeftijd < 3){
   println("baby");
@@ -10,4 +10,6 @@ if(leeftijd < 3){
   println("kind");
 }else if (leeftijd <= 19){
   println("tiener");
+}else{ 
+  println("oud");
 }
