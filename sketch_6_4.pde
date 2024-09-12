@@ -11,5 +11,5 @@ if(leeftijd < 3){
 }else if (leeftijd <= 19){
   println("tiener");
 }else{ 
-  println("oud");
+  println("ouder dan 19");
 }
