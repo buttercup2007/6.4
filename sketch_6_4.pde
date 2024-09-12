@@ -8,8 +8,10 @@ if(leeftijd < 3){
   println("kleuter");
 }else if (leeftijd < 12){
   println("kind");
-}else if (leeftijd <= 19){
+}else if (leeftijd < 20){
   println("tiener");
+}else if (leeftijd < = 25){ 
+  println("adolescent");
 }else{ 
-  println("ouder dan 19");
+  println("volwassen")
 }
